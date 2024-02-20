@@ -25,7 +25,6 @@ class Database {
   }
 }
 
-
 export const createDb = (mongoUrl, dbName) => new Database(mongoUrl, dbName);
 
 export default Database;

@@ -1,6 +1,6 @@
 module.exports = {
   apps: [{
-    name: 'serviceApp',
+    name: 'cpsc671-hw-problem9',
     script: 'index.js',
 
     instances: 1,

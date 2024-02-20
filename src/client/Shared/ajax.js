@@ -9,7 +9,7 @@ const initAxios = () => {
   userString = JSON.parse(userString);
 
   if (!userString || !userString.token) return;
-  console.log(token);
+
   const { token } = userString;
   axios.defaults.headers = {
     Authorization: token && `Bearer ${token}`,
