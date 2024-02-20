@@ -21,6 +21,7 @@ They can specify details like cost, location, expertise level, and description.
 ## App Environment
 
 ![Register](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Register.png)
+*Fig1: Register Page*
 
 ![Login](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Login.png)
 
