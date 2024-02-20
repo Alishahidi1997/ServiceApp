@@ -20,18 +20,32 @@ They can specify details like cost, location, expertise level, and description.
 
 ## App Environment
 
-![Register](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Register.png)
-*Fig1: Register Page*
+<p align="center">
+  <img src="https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Register.png" alt="Register Page">
+</p>
+<p align="center"><i>Fig1: Register Page</i></p>
 
-![Login](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Login.png)
+<p align="center">
+  <img src="https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Login.png" alt="Login Page">
+<p align="center"><i>Fig2: Login Page</i></p>
 
-![Services](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Services.png)
+<p align="center">
+  <img src="https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Services.png" alt="Services Page">
+<p align="center"><i>Fig3: Main Page</i></p>
 
-![Create Service](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/CreateService.png)
+<p align="center">
+  <img src="https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/CreateService.png" alt="Create Service Page">
+<p align="center"><i>Fig4: Create Service</i></p>
 
-![FilterBy](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/FilterBy.png)
+<p align="center">
+  <img src="https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/FilterBy.png" alt="FilterBy Page">
+<p align="center"><i>Fig5: Filter Service</i></p>
 
-![SortBy](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/SortBy.png)
+<p align="center">
+  <img src="https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/SortBy.png" alt="SortBy Page">
+<p align="center"><i>Fig6: Sort By Rate, Date, or Distance</i></p>
 
-![Reviews](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Reviews.png)
+<p align="center">
+  <img src="https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Reviews.png" alt="Reviews Page">
+<p align="center"><i>Fig7: Display Reviews</i></p>
 
