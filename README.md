@@ -1,4 +1,5 @@
-#ServiceApp - A Comprehensive Service Marketplace
+# ServiceApp - A Comprehensive Service Marketplace
+
 Welcome to ServiceApp, a dynamic web application developed using React, MongoDB,and Express.js, designed to create a seamless platform for service providers and users to connect. This project was a collaborative effort for a database course,
 showcasing the integration of frontend and backend technologies.
 
@@ -15,4 +16,8 @@ They can specify details like cost, location, expertise level, and description.
 
 - **Reviews and Ratings:** Once the service is completed, users can leave reviews and ratings, providing valuable feedback for others.
 
-- **Sorting and Filtering:** Users can sort services based on rate and location, and filter them by category, offering a user-friendly search experience.
+- **Sorting and Filtering:** Users can sort services based on rate and location, and filter them by category, offering a user-friendly search experience.\
+
+## App Environment
+
+![Register](https://github.com/Alishahidi1997/ServiceApp/blob/master/Screenshots/Register.png)
